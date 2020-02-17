@@ -45,14 +45,22 @@
         "twitter":"https://twitter.com/dhruvashastri12",
         "linkedin":"https://www.linkedin.com/in/dhruvashastri12/",
         "github":"",
-        "profileImage":"dhruva_shashtri.png"
+        "profileImage":"dhruva_shashtri.jpg"
     },
     {
         "name":"Jaldeep Asodariya",
-        "designation":"Core Organizing Team Member",
+        "designation":"Event Organizer",
         "twitter":"https://twitter.com/JaldeepAsodariy",
         "linkedin":"https://www.linkedin.com/in/jaldeepasodariya/",
         "github":"https://github.com/JaldeepAsodariya",
-        "profileImage":"jaldeep_asodariya.png"
+        "profileImage":"jaldeep_asodariya.jpg"
+    },
+    {
+        "name":"Hiren Dave",
+        "designation":"Event Organizer",
+        "twitter":"https://twitter.com/hjdave",
+        "linkedin":"https://www.linkedin.com/in/davehiren",
+        "github":"",
+        "profileImage":"hiren_dave.jpg"
     }
 ]

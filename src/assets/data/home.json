@@ -1,17 +1,17 @@
 {
-    "eventName":"International Women's Day 2019",
+    "eventName":"International Women's Day 2020",
     "themeTitle":"Lift as you Climb",
-    "navTitle":"IWD'19 Ahmedabad",
-    "registrationLink":"https://bit.ly/IWDAhmRegister",
+    "navTitle":"IWD'20 Ahmedabad",
+    "registrationLink":"",
     "chapterName":"GDG Ahmedabad",
     "eventLogo":"https://www.womentechmakers.com/static/images/wtm-icon@2x.png",
     "eventDes":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "aboutWTMProgram":"Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. In 2019, we’re organizing the fifth edition in Ahmedabad as part of the special event The Women Techmakers Global Event Series Celebrating International Women’s Day (WTM IWD).",
+    "aboutWTMProgram":"Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. In 2020, we’re organizing the sixth edition in Ahmedabad as part of the special event The Women Techmakers Global Event Series Celebrating International Women’s Day (WTM IWD).",
     "chapterMeetupLink":"https://www.meetup.com/GDG-Ahmedabad",
-    "eventMeetupLink" : "https://www.meetup.com/GDG-Ahmedabad/events/259979852/",
-    "eventDate" : "28th April, 2019",
+    "eventMeetupLink" : "https://www.meetup.com/GDG-Ahmedabad/events/268711805/",
+    "eventDate" : "8th March, 2020",
     "eventTime" : "09:00 AM to 5:00 PM",
-    "eventVenue" : "SSIP I -Hub, KCG campus, Opp. PRL, Near LD college if engineering, Navrangpura, Ahmedabad",
+    "eventVenue" : "Ahmedabad",
     "email":"pareshmayani@gmail.com",
     "followLinks":{
         "facebook":"https://www.facebook.com/GDGAhmedabad/",
@@ -31,7 +31,7 @@
             "name" : "#WTM"
         },
         {
-            "name" : "#IWD19"
+            "name" : "#IWD20"
         }
     ],
     "stats":[
@@ -47,7 +47,7 @@
         },
         {
             "name":"Networking",
-            "des":"Work hard and enjoy, IWD'19 is the best place to meet new people",
+            "des":"Work hard and enjoy, IWD'20 is the best place to meet new people",
             "longDes":"Meet and connect with the people having experience in technical field. Connection between one and wide and share your interest and experiences."
         },
         {
